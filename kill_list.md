@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Any that rhymes with java
+* Any that rhymes with Rudy
